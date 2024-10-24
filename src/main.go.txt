@@ -1,0 +1,16 @@
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Welcome to my Go GitHub Repository!")
+
+    // Call a function to print more details
+    displayInfo()
+}
+
+// Function that prints more information
+func displayInfo() {
+    fmt.Println("This is a basic Go program.")
+    fmt.Println("Welcome To My World!")
+}
